@@ -25,7 +25,7 @@ LegalDoc Lens lets users **upload a PDF or text document** and instantly:
 
 ## ✨ Key Features
 
-| Feature | Description | Visual |
+| Feature | Description | 
 |---------|-------------|--------|
 | File Upload | Upload PDF or text contracts | 
 | AI Summary | Summarizes key clauses | 
