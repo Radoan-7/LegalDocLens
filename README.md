@@ -1,0 +1,2 @@
+# LegalDocLens
+Contract Risk Scanner
