@@ -1,5 +1,5 @@
 ## 🚀 Overview
-**LegalDoc Lens** is an AI-powered contract scanner that instantly summarizes legal documents, highlights risky clauses, and provides plain-language explanations. Built entirely in **Bolt**, it helps freelancers, startups, and small businesses avoid hidden fees, auto-renewals, and penalties.  
+**LegalDoc Lens** is an AI-powered contract scanner that instantly summarizes legal documents, highlights risky clauses, and provides plain-language explanations. It helps freelancers, startups, and small businesses avoid hidden fees, auto-renewals, and penalties.  
 
 ---
 
